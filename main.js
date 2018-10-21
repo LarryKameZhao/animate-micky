@@ -56,6 +56,7 @@ body {
   position: relative;
   box-sizing: border-box;
 }
+/*感觉慢的话，可以点击右侧按钮，更改速度哦*/
 /*来两个圆圆的耳朵*/
 .ear {
   height: 100px;
